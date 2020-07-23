@@ -1,0 +1,2 @@
+# aijinwei.github.io
+init
